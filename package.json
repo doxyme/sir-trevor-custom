@@ -1,0 +1,19 @@
+{
+  "name": "sir-trevor-custom",
+  "version": "0.0.0",
+  "description": "Customised version of Sir Trevor",
+  "main": "sir-trevor-custom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doxyme/sir-trevor-custom.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doxyme/sir-trevor-custom/issues"
+  },
+  "homepage": "https://github.com/doxyme/sir-trevor-custom#readme"
+}
