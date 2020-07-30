@@ -6448,7 +6448,7 @@
               general: {
                 delete: 'Delete?',
                 drop: 'Drag __block__ here',
-                paste: 'Enter your youtube video URL here',
+                paste: 'Enter your Youtube or Vimeo video URL here',
                 upload: 'Click to choose a file',
                 close: 'close',
                 position: 'Position',
